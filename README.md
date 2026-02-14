@@ -29,3 +29,6 @@ Enter the URL to analyze: http://micros0ft-login.com/account/verify
 Suspicious word found: login
 domain is similar to a common brand: microsoft (0.89)
 The URL is a phishing attempt with a score of 5, and is dangerous.
+## Note
+You can easily extend the lists of suspicious words, 
+TLDs and brand names directly in the source code.
